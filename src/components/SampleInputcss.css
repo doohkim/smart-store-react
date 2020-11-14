@@ -1,0 +1,9 @@
+.pagination-ul {
+    list-style: none;
+    float: left;
+    display: inline;
+}
+
+.pagination-li {
+    background-color: #282c34;
+}
